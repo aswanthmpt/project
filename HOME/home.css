@@ -2,5 +2,6 @@ html{
 
 }
 body{
-    background: radial-gradient(black,grey);
+    background: radial-gradient(rgb(71, 69, 69),rgb(0, 0, 0));
+    height: 100vh;
 }
