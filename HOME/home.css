@@ -5,3 +5,11 @@ body{
     background: radial-gradient(rgb(71, 69, 69),rgb(0, 0, 0));
     height: 100vh;
 }
+.a{
+
+height: 100%;
+width: 100%;
+
+ background:url("./wallpaperflare.com_wallpaper (1).jpg") ;
+ background-size:cover;
+}
